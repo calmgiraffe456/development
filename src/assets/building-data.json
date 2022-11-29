@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Friedman Hall",
+    "category": "Academic",
+    "region": "Main Green",
+    "year": 1891,
+    "area": 19861.0,
+    "image": "images/friedman.jpeg"
+  },
+  {
+    "name": "Center for Information Technology",
+    "category": "Academic",
+    "region": "Sciences Quad",
+    "year": 1988,
+    "area": 105123.0,
+    "image": "images/cit.jpeg"
+  },
+  {
+    "name": "Rochambeau House",
+    "category": "Academic",
+    "region": "Northwest",
+    "year": 1929,
+    "area": 15954.0,
+    "image": "images/rochambeau.jpg"
+  },
+  {
+    "name": "Smith-Buonanno Hall",
+    "category": "Academic",
+    "region": "Pembroke",
+    "year": 1907,
+    "area": 12685.0,
+    "image": "images/smittyb.jpeg"
+  },
+  {
+    "name": "Salomon Hall",
+    "category": "Academic",
+    "region": "Main Green",
+    "year": 1862,
+    "area": 22098.0,
+    "image": "images/salomon.jpeg"
+  },
+  {
+    "name": "Machado House",
+    "category": "Dorm",
+    "region": "Northwest",
+    "year": 1912,
+    "area": 31816.0,
+    "image": "images/machado.jpeg"
+  },
+  {
+    "name": "Sears House",
+    "category": "Dorm",
+    "region": "Wriston Quad",
+    "year": 1951,
+    "area": 35149.0,
+    "image": "images/sears.jpeg"
+  },
+  {
+    "name": "Miller Hall",
+    "category": "Dorm",
+    "region": "Pembroke",
+    "year": 1910,
+    "area": 24365.0,
+    "image": "images/miller.jpeg"
+  },
+  {
+    "name": "Sharpe Refectory",
+    "category": "Dining Hall",
+    "region": "Wriston Quad",
+    "year": 1951,
+    "area": 90225.0,
+    "image": "images/ratty.jpeg"
+  },
+  {
+    "name": "Verney-Woolley Hall",
+    "category": "Dining Hall",
+    "region": "Pembroke",
+    "year": 1960,
+    "area": 5486.0,
+    "image": "images/vdub.jpeg"
+  },
+  {
+    "name": "John Carter Brown Library",
+    "category": "Library",
+    "region": "Main Green",
+    "year": 1904,
+    "area": 24186.0,
+    "image": "images/jcb.jpeg"
+  },
+  {
+    "name": "Sciences Library",
+    "category": "Library",
+    "region": "Sciences Quad",
+    "year": 1971,
+    "area": 99538.0,
+    "image": "images/scili.jpeg"
+  }
+]

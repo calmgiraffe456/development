@@ -1,38 +1,93 @@
 .App {
-  text-align: center;
-}
+  /* CSS HEX */
+  --medium-sea-green: #44af69ff;
+  --red-salsa: #f8333cff;
+  --bright-yellow-crayola: #fcab10ff;
+  --blue-munsell: #2b9eb3ff;
+  --dutch-white: #dbd5b5ff;
+  --grey: #727373;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  background-color: var(--blue-munsell);
+  color: var(--grey);
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  text-align: center;
+  color: var(--bright-yellow-crayola);
+  padding-top: 20px;
+}
+
+.everything {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.controls {
+  background-color: var(--bright-yellow-crayola);
+  width: 20%;
+  margin: 1.5%;
+  padding: 1.5%;
+  min-width: 209px;
+  border-radius: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+img {
+  width: 100%;
 }
+
+.building-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 1.5%;
+  width: 73%;
+}
+
+#favorite-button {
+  border: solid;
+  color: var(--red-salsa);
+  border-radius: 10px;
+}
+
+.building-with-button {
+  background-color: wheat;
+  width: 22%;
+  min-width: 290px;
+  margin: 1.5%;
+  background-color: var(--dutch-white);
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  text-align: center;
+  padding-top: 5px;
+  color: var(--medium-sea-green);
+}
+
+.building-text {
+  text-align: center;
+}
+
+div.dropdown-menu.show {
+  /* background-color: wheat; */
+  border: none;
+} 
+
+a.dropdown-item {
+  color: var(--grey);   
+}
+
+#dropdown {
+  background-color: azure;
+  color: var(--grey);
+  border: none;
+}
+
+#reset {
+  border-radius: 10px;
+  border: solid;
+  color: var(--red-salsa);
+  background-color: white;
+  margin-bottom: 15px;
+}
+
